@@ -1,0 +1,30 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+
+\caption{\label{fig-wolf1}Background and characters of MrWolf are
+detailed and rich.}
+
+\centering{
+
+\includegraphics[width=0.5\textwidth,height=\textheight]{fig/wolf1.png}
+
+}
+
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+
+\caption{\label{fig-wolf2}Background and characters of MrWolf are
+detailed and rich.}
+
+\centering{
+
+\includegraphics[width=0.5\textwidth,height=\textheight]{fig/wolf1.png}
+
+}
+
+\end{figure*}

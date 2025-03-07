@@ -14,12 +14,35 @@ documentmode: stu
 nocorrespondence: true
 suppress-author-note: true
 draftall: true
+floatsintext: true
 format:
   apaquarto-pdf: default
 ---
 
-This is an example [@bordzilovskiyMillioner1963, pp. 33].
+
+This is an example [@bordzilovskiyMillioner1963, pp. 33] as shown in @fig-wolf1.
+
+![Background and characters of MrWolf are detailed and rich.](fig/wolf1.png){#fig-wolf1 width=50%}
+
+![Background and characters of MrWolf are detailed and rich.](fig/wolf1.png){#fig-wolf2 width=50%}
+
+# Background 
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Primis libero ac lacus class leo interdum. Lacinia nulla rhoncus netus platea conubia porttitor ultrices auctor. Quam consectetur eros accumsan hendrerit feugiat aliquam torquent magnis. Iaculis ridiculus quis enim dignissim aenean metus ipsum hendrerit vitae. Sapien praesent nulla suscipit odio sed non nullam adipiscing. Metus libero turpis potenti varius lobortis mus. Sed consectetur tristique iaculis fringilla; ipsum turpis litora justo quis. Congue neque platea pharetra fermentum metus auctor. Eros penatibus neque ante; in ornare conubia.
+
+Magna urna vestibulum, tortor praesent vel mattis montes. Ultricies sollicitudin interdum habitant magnis vitae suscipit leo montes. Nisl integer pharetra eget facilisi tempus augue dictum penatibus. Torquent proin felis magna etiam; varius nascetur suspendisse suscipit. Inceptos auctor penatibus neque lobortis aptent porttitor. Nibh primis auctor turpis donec semper primis rhoncus. Etiam nulla convallis accumsan felis nunc rhoncus dapibus. Curae dui himenaeos natoque imperdiet adipiscing proin consectetur potenti facilisis. Elementum curae tempus adipiscing risus aptent. Habitasse porttitor nisl sociosqu; cras nunc facilisis.
+
+Dapibus lacinia nulla eleifend justo luctus vulputate vestibulum taciti massa. Aliquet dictumst maecenas efficitur leo praesent massa sit feugiat curae. Hac lacus enim mattis sapien interdum ut vulputate primis. Ipsum dictum nisi semper; purus facilisi lorem leo ridiculus. Ipsum sem velit nec cursus ornare dis morbi et. Finibus aenean maximus sagittis justo natoque quam velit cras? Malesuada habitant volutpat vulputate dictum massa id egestas fermentum quam. Metus vivamus risus mauris euismod ex natoque ex in pellentesque.
+
+Nullam fringilla donec vel ridiculus id. Condimentum himenaeos iaculis class lacus porttitor ligula massa sociosqu. Dignissim cursus etiam class per justo tortor. Interdum nam nisi ac potenti efficitur eleifend torquent diam. Senectus nulla laoreet ridiculus tellus lobortis; finibus tincidunt ac. Taciti morbi risus facilisi hendrerit adipiscing vitae lacus cubilia ultrices. Feugiat blandit diam lacinia tortor netus condimentum massa imperdiet pretium. Magna quis integer quam netus felis.
+
+Curabitur mi praesent; malesuada parturient vitae adipiscing. Tempus nostra litora aenean pellentesque ante. Tincidunt phasellus per litora porta; tempor orci est. Tellus viverra natoque lobortis mauris praesent. Natoque platea ipsum urna hendrerit primis ac elit, lacus taciti. Tristique tristique enim velit habitant odio diam sollicitudin. Aptent posuere morbi varius ornare dis; ultrices arcu. Torquent montes lacinia vitae libero dictumst.
+
+This another example according to @cowenAnimationIronCurtain2020.
 
 \newpage
 
 # References
+
+::: {#refs}
+:::
