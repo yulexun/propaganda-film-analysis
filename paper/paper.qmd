@@ -1,0 +1,25 @@
+---
+title: "Propaganda Films and National Identity:  Animated Films in USSR and China"
+shorttitle: "Propaganda Films and National Identity"
+author:
+  - name: Lexun Yu
+    email: lx.yu@mail.utoronto.ca
+    affiliations:
+    - name: University of Toronto
+course: "BMS401: Animated Film in Europe"
+professor: Laura Pontieri
+duedate: March 20, 2025
+bibliography: references.bib
+documentmode: stu
+nocorrespondence: true
+suppress-author-note: true
+draftall: true
+format:
+  apaquarto-pdf: default
+---
+
+This is an example [@bordzilovskiyMillioner1963, pp. 33].
+
+\newpage
+
+# References
