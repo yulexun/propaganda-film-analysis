@@ -15,12 +15,15 @@ nocorrespondence: true
 suppress-author-note: true
 draftall: true
 floatsintext: true
+number-sections: true
 format:
   apaquarto-pdf: default
 ---
 
 
-The Cold War is a geopolitical and ideological war that defines global politics between the United States and the Soviet Union emerged after World War II from 1947 to 1991. The conflict between the two countries extends beyond the military advancement, reaching political, economical and cultural areas [@riabovImagesUrbanSpace2021, pp. 123]. Animated films, as one of the cultural products, often include the use of propaganda as a tool to shape public opinion and assert ideological dominances [@pontieriSovietAnimationThaw2012, pp. 6]. 
+The Cold War is a geopolitical and ideological war that defines global politics between the United States and the Soviet Union emerged after World War II from 1947 to 1991. The conflict between the two countries extends beyond the military advancement, reaching political, economical, and cultural areas [@riabovImagesUrbanSpace2021, pp. 123]. Animated films, as one of the cultural products, often include the use of propaganda as a tool to shape public opinion and assert ideological dominances [@pontieriSovietAnimationThaw2012, pp. 6]. The USSR and its allies promoted communism as a superior alternative to capitalism, which is dominant in the United States. Both the USSR and the newly established People’s Republic of China needs cultural products to prove the rightness of their ideological system. During the 1950s and 1960s, both the USSR and China utilize cinema as a medium for propaganda to gain public support for their own views on socialism. In this essay, we compare six propaganda animated films (three from the USSR and three from PRC) from the two countries in the 1950s and 1960s. We aim to identify the differences between these films and the social-political reasons behind them. First, in @sec-films, we introduce the six films and the directors. This includes the director's choice of style across different films, depictions of characteristics including movement, background, and sound, and the overall theme, objective, and target audiences. Second, in @sec-connections, we introduce the historical background in the post WWII era in both countries. Finally, we connect the characteristics observed in these films and make connections with the general trends in the local animation industry, as well as historical and socio-cultural context.
+
+# Animated Propaganda Films {#sec-films}
 
 This is an example [@bordzilovskiyMillioner1963, pp. 33] as shown in @fig-wolf1.
 
@@ -28,7 +31,7 @@ This is an example [@bordzilovskiyMillioner1963, pp. 33] as shown in @fig-wolf1.
 
 ![Background and characters of MrWolf are detailed and rich.](fig/wolf1.png){#fig-wolf2 width=50%}
 
-# Background 
+# Social and Political Connections {#sec-connections}
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Primis libero ac lacus class leo interdum. Lacinia nulla rhoncus netus platea conubia porttitor ultrices auctor. Quam consectetur eros accumsan hendrerit feugiat aliquam torquent magnis. Iaculis ridiculus quis enim dignissim aenean metus ipsum hendrerit vitae. Sapien praesent nulla suscipit odio sed non nullam adipiscing. Metus libero turpis potenti varius lobortis mus. Sed consectetur tristique iaculis fringilla; ipsum turpis litora justo quis. Congue neque platea pharetra fermentum metus auctor. Eros penatibus neque ante; in ornare conubia.
 
