@@ -26,15 +26,49 @@ The Cold War is a geopolitical and ideological war that defines global politics 
 
 The beginning of propaganda films in the USSR begins in the 1920s and 1930s, according to Eleanor Cowen and Laura Pontieri. The Stalin communist regime, they are particularly interested in the indoctrination of its youth. In 1936, they form a newly collectivized studio called Soyuzmultfilm in Moscow. The studio becomes the state-controlled premier animation studio in the Soviet Union [@cowenAnimationIronCurtain2020, chap. 4]. The early years of Soyuzmultfilm included a great deal of pro-Soviet and anti-capitalist propaganda, and they use Disney’s full, cel animation method as the blueprint. The aesthetic goal of complete animation is to create animations with great attention to detail and subtle fluidity of motion. This aligns with Josef Stalin and Maksim Gorki’s promotion of socialist realism ideology which focuses on optimistic and realistic representations of the country’s glorious future [@cowenAnimationIronCurtain2020, chap. 4]. The stories focus on banishing old bourgeoisie, and attacking the rich, racist and duplicitous capitalists [@pontieriSovietAnimationThaw2012b, pp. 21, 36]. In 1956, three years after the death of Josef Stalin, censorship on artists is lifted in the Nikita Khrushchev’s cultural “thaw”. Theme and graphical style begin to change in Soviet animation [@cowenAnimationIronCurtain2020, chap. 4]. Animation for young people explicitly teaches good behavior and social principles [@pontieriSovietAnimationThaw2012b, pp. 56]. Satire, on the other hand, reappears in animation aimed at adults. Satire is a “corrective tool” against society, attacking foreign countries while mocking domestic weaknesses [@pontieriSovietAnimationThaw2012b, pp. 66].
 
-Animated Film in PRC originates in the northeastern provinces colonialized by Japan [@duAnimatedEncountersTransnational2019, pp. 69]. After the world war in 1950, the communist party take over the area and transferred the Chinese and Japanese artists from Changchun to Shanghai. Like Soyuzmultfilm, a new animation studio Shanghai Film Studio was formed by joining various individual animation studio on March 24. Thew animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
+Animated Film in PRC originates in the northeastern provinces colonialized by Japan [@duAnimatedEncountersTransnational2019, pp. 69]. After the world war in 1950, the communist party take over the area and transferred the Chinese and Japanese artists from Changchun to Shanghai. Like Soyuzmultfilm, a new animation studio Shanghai Film Studio was formed by joining various individual animation studio on March 24. Thew animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
 
 # Animated Propaganda Films {#sec-films}
 
 The three films we choose from the USSR are Mister Volk directed by Viktor Gromov in 1949, Mister Tvister directed by Anatoliy Karanovich in 1963, and Millioner directed by Vitold Bordzilovskiy in 1963. These films are all produced by the state established film studio Soyuzmultfilm. 
 
-Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is still in power. The director of this film work as a consulting director before producing this film, and the area of his previous productions are the animation films aimed at children based on traditional folklore. The technique used is cel animation and full animation. 
+Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is still in power. This is Viktor Gromov's first animated film, and the area of his previous productions are the animation films aimed at children based on traditional folklore. The director works as a consulting director for the other Soyuzmultfilm animations Little Gray Neck and The Flower with Seven Colors in 1948. The technique used in the film is cel animation and full animation. As shown in @fig-wolfa, the background of this scene is layered to produce an illusion of depth in the scene, which is a characteristic of cel animation [@pontieriSovietAnimationThaw2012b, pp. 39]. In @fig-wolfb, we observe the non linear movement between frames, this indicates full animation. There is no music played through the animation, and the overall tone focuses on an objective to uncover the dark side of American imperialism. The story is simple enough for both children and adults to understand.
 
-![Background and characters of MrWolf are detailed and rich.](fig/wolf1.png){#fig-wolf1 width=50%}
+::: {#fig-wolf layout-ncol=2}
+
+![Layered background](fig/wolf1.png){#fig-wolfa}
+
+![Fluid movement](fig/wolf2.png){#fig-wolfb}
+
+Stills from Mister Volk
+:::
+
+Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterTvister1963] are both produced in 1963 after the Thaw. 
+
+::: {#fig-mill layout-ncol=3}
+
+![Characters' limited movement](fig/mill1.png){#fig-milla}
+
+![Abstract background](fig/mill4.png){#fig-millb}
+
+![Cutout techniques](fig/mill3.png){#fig-millc}
+
+Stills from Millioner
+:::
+
+::: {#fig-mill layout-ncol=2}
+
+![Characters' limited movement](fig/twis1.png){#fig-twisa}
+
+![Abstract background](fig/twis2.png){#fig-twisb}
+
+![Cutout techniques](fig/twis3.png){#fig-twisc}
+
+![Cutout techniques](fig/twis4.png){#fig-twisd}
+
+Stills from Millioner
+:::
+
 
 # Social and Political Connections {#sec-connections}
 
