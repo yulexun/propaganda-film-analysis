@@ -24,15 +24,15 @@ The Cold War is a geopolitical and ideological war that defines global politics 
 
 # Backgrounds
 
-The beginning of propaganda films in the USSR begins in the 1920s and 1930s, according to Eleanor Cowen and Laura Pontieri. The Stalin communist regime, they are particularly interested in the indoctrination of its youth. In 1936, they form a newly collectivized studio called Soyuzmultfilm in Moscow. The studio becomes the state-controlled premier animation studio in the Soviet Union [@cowenAnimationIronCurtain2020, chap. 4]. The early years of Soyuzmultfilm included a great deal of pro-Soviet and anti-capitalist propaganda, and they use Disney’s full, cel animation method as the blueprint. The aesthetic goal of complete animation is to create animations with great attention to detail and subtle fluidity of motion. This aligns with Josef Stalin and Maksim Gorki’s promotion of socialist realism ideology which focuses on optimistic and realistic representations of the country’s glorious future [@cowenAnimationIronCurtain2020, chap. 4]. The stories focus on banishing old bourgeoisie, and attacking the rich, racist and duplicitous capitalists [@pontieriSovietAnimationThaw2012b, pp. 21, 36]. In 1956, three years after the death of Josef Stalin, censorship on artists is lifted in the Nikita Khrushchev’s cultural “thaw”. Theme and graphical style begin to change in Soviet animation [@cowenAnimationIronCurtain2020, chap. 4]. Animation for young people explicitly teaches good behavior and social principles [@pontieriSovietAnimationThaw2012b, pp. 56]. Satire, on the other hand, reappears in animation aimed at adults. Satire is a “corrective tool” against society, attacking foreign countries while mocking domestic weaknesses [@pontieriSovietAnimationThaw2012b, pp. 66].
-
 Animated Film in PRC originates in the northeastern provinces colonialized by Japan [@duAnimatedEncountersTransnational2019, pp. 69]. After the world war in 1950, the communist party take over the area and transferred the Chinese and Japanese artists from Changchun to Shanghai. Like Soyuzmultfilm, a new animation studio Shanghai Film Studio was formed by joining various individual animation studio on March 24. Thew animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
 
-# Animated Propaganda Films {#sec-films}
+# Propaganda Films in USSR
+
+The beginning of propaganda films in the USSR begins in the 1920s and 1930s, according to Eleanor Cowen and Laura Pontieri. The Stalin communist regime, they are particularly interested in the indoctrination of its youth. In 1936, they form a newly collectivized studio called Soyuzmultfilm in Moscow. The studio becomes the state-controlled premier animation studio in the Soviet Union [@cowenAnimationIronCurtain2020, chap. 4]. 
 
 The three films we choose from the USSR are Mister Volk directed by Viktor Gromov in 1949, Mister Tvister directed by Anatoliy Karanovich in 1963, and Millioner directed by Vitold Bordzilovskiy in 1963. These films are all produced by the state established film studio Soyuzmultfilm. 
 
-Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is still in power. This is Viktor Gromov's first animated film, and the area of his previous productions are the animation films aimed at children based on traditional folklore. The director works as a consulting director for the other Soyuzmultfilm animations Little Gray Neck and The Flower with Seven Colors in 1948. The technique used in the film is cel animation and full animation. As shown in @fig-wolfa, the background of this scene is layered to produce an illusion of depth in the scene, which is a characteristic of cel animation [@pontieriSovietAnimationThaw2012b, pp. 39]. In @fig-wolfb, we observe the non linear movement between frames, this indicates full animation. There is no music played through the animation, and the overall tone focuses on an objective to uncover the dark side of American imperialism. The story is simple enough for both children and adults to understand.
+Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is still in power. This is Viktor Gromov's first animated film, and the area of his previous productions are the animation films aimed at children based on traditional folklore. The director works as a consulting director for the other Soyuzmultfilm animations Little Gray Neck and The Flower with Seven Colors in 1948. The technique used in the film is cel animation and full animation. As shown in @fig-wolfa, the background of this scene is layered to produce an illusion of depth in the scene, which is a characteristic of cel animation [@pontieriSovietAnimationThaw2012b, pp. 39]. In @fig-wolfb, we observe the non linear movement between frames, this indicates full animation. There is no music played through the animation, and the overall tone focuses on an objective to uncover the dark side of American imperialism. The story is simple enough for both children and adults to understand. 
 
 ::: {#fig-wolf layout-ncol=2}
 
@@ -43,7 +43,7 @@ Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is 
 Stills from Mister Volk
 :::
 
-Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterTvister1963] are both produced in 1963 after the Thaw. 
+Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterTvister1963] are both produced in 1963 after the Thaw. We observe a notable change in style from full to limited animation. These two films focus on flatness, lack of perspective. It uses colors for background, which lack of extra detail. According to @furnissArtMotionAnimation1999, limited animation reflects formal design and minimalism. Large chunks of color fields suggest a simplified background space [-@furnissArtMotionAnimation1999, pp. 140]. 
 
 ::: {#fig-mill layout-ncol=3}
 
@@ -51,26 +51,34 @@ Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterT
 
 ![Abstract background](fig/mill4.png){#fig-millb}
 
-![Cutout techniques](fig/mill3.png){#fig-millc}
+![Cutout techniques](fig/mill2.png){#fig-millc}
 
 Stills from Millioner
 :::
 
-::: {#fig-mill layout-ncol=2}
+Millioner is a combination of full and limited animation. It is Bordzilovskiy's first animated film. The director previously works in Soyuzmultfilm as a art director for other full animation such as Million v meshke in 1956. In 1960 Bordzilovskiy works as the art director for a limited animation 13 reys in 1960. As shown in @fig-milla, the dog is drawn with the full animation technique because of its smooth movement, while other characters have limited movement. The character on the left only moves their hand or their legs at a time to simulate movement, the faces of people in the film remains constant at most of the time. @fig-millb and @fig-millc further shows the limited background and the repetitive movement of multiple characters, creating an abstract depiction of the meanings. For instance, the background in @fig-millb are constructed by a few black shapes which resemble the corridor of the mansion. By simply moving this shape backwards, it demonstrates the large space, signifying the wealth of the owner. In @fig-millc, people are dancing with their hands and feet on the floor, the cutout at the top of the frame shows extend the space of the bar, visually extending the large amount of dancers. 
 
-![Characters' limited movement](fig/twis1.png){#fig-twisa}
+Mister Tvister further enhance the abstractness of animation film. The director Anatoliy Karanovich starts making animated film in 1957. Karanovich's early works are puppet animation, and Mister Tvister is the director's first limited animated film. The film is framed in an interactive book. As shown in @fig-twisa and @fig-twisb, every scene in this film is constructed by layering papercuts which simulate the perspective by the paper material. All visual elements are constructed in simplicity. As shown in @fig-twisc, the face of the Black man is constructed by simple shapes, and the scene of the hotel manager dialing other hotel managers is shaped like a dial pad in @fig-twisd. It is also worth noting that Mister Tvister makes heavy use of music. Musical instruments and sound effects reflect the mental state of Mr. Twisters' family. For example, when Mr. Twister departs from the United State, the music is on a higher pitch and higher bpm. These characteristics often means happier feelings. When Mr. Twister gets rejected by the hotel, the pace reduces, and the musical instruments produce more gentle sounds. 
 
-![Abstract background](fig/twis2.png){#fig-twisb}
+::: {#fig-twis layout-ncol=2}
 
-![Cutout techniques](fig/twis3.png){#fig-twisc}
+![Skyscrapers made of papercut](fig/twis1.png){#fig-twisa}
 
-![Cutout techniques](fig/twis4.png){#fig-twisd}
+![Characters made of papercut](fig/twis2.png){#fig-twisb}
 
-Stills from Millioner
+![Face of the black man constructed by a few shapes](fig/twis3.png){#fig-twisc}
+
+![Dialpad shape signifies multiple calls at once](fig/twis4.png){#fig-twisd}
+
+Stills from Mister Tvister
 :::
 
+The differences between the three films reflect the socio-cultural changes in the Soviet Union. First, the characteristics of the two 1963 films both reflect Soyuzmultfilm transition from full animation to limited animation. The early years of Soyuzmultfilm included a great deal of pro-Soviet and anti-capitalist propaganda, and they use Disney’s full, cel animation method as the blueprint. The aesthetic goal of complete animation is to create animations with great diligence and subtle fluidity of motion. This aligns with Josef Stalin and Maksim Gorki’s promotion of socialist realism ideology which focuses on optimistic and realistic representations of the country’s glorious future [@cowenAnimationIronCurtain2020, chap. 4]. The story in Mister Volk also incorporates the socialist realism aspect because it depicts a wealthy family in the US and their disingenuous behavior. On the ideological level, the film criticized capitalism and upper class that reflects the dominant value of the United States. As Pontieri stated, the stories in this time focus on banishing old bourgeoisie, and attacking the rich, racist, and duplicitous capitalists [@pontieriSovietAnimationThaw2012b, pp. 21, 36]. 
 
-# Social and Political Connections {#sec-connections}
+In 1956, three years after the death of Josef Stalin, censorship on artists is lifted in the Nikita Khrushchev’s cultural “thaw”. Theme and graphical style begin to change in Soviet animation [@cowenAnimationIronCurtain2020, chap. 4]. Animation for young people explicitly teaches good behavior and social principles [@pontieriSovietAnimationThaw2012b, pp. 56]. Both film’s targets both children and adults, but they are more child friendly compared to Mister Volk due to the simpler language and meanings, avoiding complicated topics such as politics, war, and oil extraction. The simple visual elements and the music are used to convey ideas and emotions, avoiding imitation of reality. Mister Tvister formats its visual elements as children's books, and the language used in the dialogs are simple and repetitive. The simplicity in language makes understanding the plot easier for children. The plot of the film also dedicates to children. The reason of Mr. Twister getting rejected by the hotel is racial discrimination. The film tries to teach its audiences with racial equality as the good behavior. In this era, satire reappears in animation aimed at adults. Satire is a “corrective tool” against society, attacking foreign countries while mocking domestic weaknesses [@pontieriSovietAnimationThaw2012b, pp. 66]. The film Millioner falls in the Satire category. It is attacking the American system built on wealth. However, there are two notable differences between Millioner and Mister Volk. First, the story in Millioner has more sense of humor. It bases the plot around a dog, which entertains the audience that include both adults and children. Second, its conclusion is that money and wealth can ruin a country. This is not only ironic for the US, but it is also an educational message for the USSR to precent corruption from the wealthy people.
+
+
+# Propaganda Films in PRC
 
 
 \newpage
