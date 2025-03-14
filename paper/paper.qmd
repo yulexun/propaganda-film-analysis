@@ -22,10 +22,6 @@ format:
 
 The Cold War is a geopolitical and ideological war that defines global politics between the United States and the Soviet Union emerged after World War II from 1947 to 1991. The conflict between the two countries extends beyond the military advancement, reaching political, economical, and cultural areas [@riabovImagesUrbanSpace2021, pp. 123]. Animated films, as one of the cultural products, often include the use of propaganda as a tool to shape public opinion and assert ideological dominances [@pontieriSovietAnimationThaw2012b, pp. 6]. The USSR and its allies promoted communism as a superior alternative to capitalism, which is dominant in the United States. Both the USSR and the newly established People’s Republic of China needs cultural products to prove the rightness of their ideological system. During the 1950s and 1960s, both the USSR and China utilize cinema as a medium for propaganda to gain public support for their own views on socialism. In this essay, we compare six propaganda animated films (three from the USSR and three from PRC) from the two countries in the 1950s and 1960s. We aim to identify the differences between these films and the social-political reasons behind them. First, we introduce the historical background in the post WWII era in both countries. Second, we introduce the six films and the directors. This includes the director's choice of style across different films, depictions of characteristics including movement, background, and sound, and the overall theme, objective, and target audiences. Finally, we connect the characteristics observed in these films and make connections with the general trends in the local animation industry, as well as historical and socio-cultural context. We conclude that ...
 
-# Backgrounds
-
-Animated Film in PRC originates in the northeastern provinces colonialized by Japan [@duAnimatedEncountersTransnational2019, pp. 69]. After the world war in 1950, the communist party take over the area and transferred the Chinese and Japanese artists from Changchun to Shanghai. Like Soyuzmultfilm, a new animation studio Shanghai Film Studio was formed by joining various individual animation studio on March 24. Thew animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
-
 # Propaganda Films in USSR
 
 The beginning of propaganda films in the USSR begins in the 1920s and 1930s, according to Eleanor Cowen and Laura Pontieri. The Stalin communist regime, they are particularly interested in the indoctrination of its youth. In 1936, they form a newly collectivized studio called Soyuzmultfilm in Moscow. The studio becomes the state-controlled premier animation studio in the Soviet Union [@cowenAnimationIronCurtain2020, chap. 4]. 
@@ -79,6 +75,26 @@ In 1956, three years after the death of Josef Stalin, censorship on artists is l
 
 
 # Propaganda Films in PRC
+Animated Film in PRC originates in the northeastern provinces colonialized by Japan [@duAnimatedEncountersTransnational2019, pp. 69]. After the world war in 1950, the communist party take over the area and transferred the Chinese and Japanese artists from Changchun to Shanghai. Like Soyuzmultfilm, a new animation studio Shanghai Film Studio was formed by joining various individual animation studio. 
+
+The three films we choose are Shui Chang De Zui Hao by Xi Jin in 1958, Yu Tong by Wan Guchan in 1959, and Tai Yang De Xiao Ke Ren by Xu Jingda in 1961. They are all produced by the newly merged Shanghai Animation Film Studio. 
+
+Shui Chang De Zui Hao [-@jinShuiChangZui1958] is a puppet animation directed by Xi Jin. The director starts his career as a screenwriter for a full animation film Xiao Tie Zhu in 1951 directed by artists from northeastern China such as Te Wei and Tadahito Mochinaga. Xi Jin then starts to direct puppet animations in the following years. He directed the first live action puppet animation in China Xiao Mei De Meng in 1954 and the award winning puppet animation Shen Bi in 1956 before directing Shui Chang De Zui Hao. As shown in @fig-shuia, the technique used in the film is puppet animation with wooden toys. The characters in the film are all from the US with lighter skin tones. The film showcases three sites in an American city: a streets, an apartment, and an opera house. Every scene showcasing the landscape are filled with advertisements and taglines like @fig-shuic, highlighting the capitalism nature of the city. The background consists of a blurry picture of the city's landscape, such as the scene in @fig-shuib. It is usually blurred by the window in the apartment or the blur effect of camera lens, creating a sense of depth. The music in the film is very similar to Chinese nursery rhyme, although the story takes place in an American city. 
+
+::: {#fig-shui layout-ncol=3}
+
+![Main characters of the film](fig/shui2.png){#fig-shuia}
+
+![The kids standing near a pole on the street](fig/shui1.png){#fig-shuib}
+
+![Large print of advertisements](fig/shui3.png){#fig-shuic}
+
+Stills from Shui Chang De Zui Hao
+:::
+
+
+
+The animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
 
 
 \newpage
