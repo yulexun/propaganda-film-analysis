@@ -9,7 +9,6 @@ In this essay, we compare six propaganda animated films (three from the USSR and
 ## File Structure
 
 - [`citationpics`](https://github.com/yulexun/propaganda-film-analysis/tree/main/citationpics) contains copies of all primary and secondary sources cited in the paper.
-- [`guide`](https://github.com/yulexun/propaganda-film-analysis/tree/main/guide) contains the final essay guideline posted by the course instructor
 - [`paper`](https://github.com/yulexun/propaganda-film-analysis/tree/main/paper) contains the `.pdf` and raw `.qmd` version of the paper, as well as the figures.
 - [`ref`](https://github.com/yulexun/propaganda-film-analysis/tree/main/ref) contains the referenced articles.
 
