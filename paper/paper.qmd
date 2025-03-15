@@ -92,6 +92,20 @@ Shui Chang De Zui Hao [-@jinShuiChangZui1958] is a puppet animation directed by 
 Stills from Shui Chang De Zui Hao
 :::
 
+Yu Tong [-@wanYuTong1959] in 1959 employs the paper cutout animation invented by the director Wan Guchan, one of the pioneering Wan brothers who revolutionized the Chinese animation industry. This method combines traditional Chinese shadow play and paper cutting with animation techniques. Characters in Yu Tong are follow a distinct Chinese aesthetic. As shown in @fig-yuto1a, The protagonist, Yu Tong, is portrayed as a classical Chinese children with big eyes, thick eyebrows, arms and legs like lotus root, and black hair. The other protagonists include a missionary from the West dressed in black and an old fisherman as a peasant, as shown in @fig-yuto1c. The background of the film specially reflect the traditional Chinese art with a mixture of Japanese influence, like @fig-yuto1b, and the music in background is played with traditional Chinese instruments. Based on the overall theme of the film, it is targeting children. 
+
+::: {#fig-yuto1 layout-ncol=3}
+
+![Main characters of the film](fig/yuto6.png){#fig-yuto1a}
+
+![Style of background](fig/yuto1.png){#fig-yuto1b}
+
+![Other main protagonists](fig/yuto2.png){#fig-yuto1c}
+
+Stills from Yu Tong
+:::
+
+Recurring motifs including lotus and Chinese ware reinforce the film's themes and cultural context of traditional Chinese art.
 
 
 The animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
