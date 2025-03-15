@@ -105,10 +105,54 @@ Yu Tong [-@wanYuTong1959] in 1959 employs the paper cutout animation invented by
 Stills from Yu Tong
 :::
 
-Recurring motifs including lotus and Chinese ware reinforce the film's themes and cultural context of traditional Chinese art.
+Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961] is directed by Xu Jingda in 1961. This is a full animation film compared to the other ones. As shown in @fig-taiy1a, the animation employs extreme squash and stretch techniques because the ball is stretched to signify movement. The characters include kids from all over the world, the god of sun, and the government officials in the US cities. Like Yu Tong, the background art of the film uses traditional Chinese painting techniques to create a sense of depth and cultural context. In @fig-taiy1b, the god of sun is standing in front of a background painted by Chinese traditional watercolor techniques. The theme and overall tone is a blend of children's entertainment and cultural education aimed at a young audiences.
+
+::: {#fig-taiy1 layout-ncol=2}
+
+![Stretched ball](fig/taiy8.png){#fig-taiy1a}
+
+![The god of sun and background](fig/taiy1.png){#fig-taiy1b}
+
+Stills from Tai Yang De Xiao Ke Ren
+:::
+
+In the three PRC films we observe a significant change in the art style and storytelling. The changes in animated films are reflection of social and political shifts inside and outside China. In the early years, the animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. We observe this trend in Shui Chang De Zui Hao. The background setup in the film precisely reflect an American city. In @fig-shuib, advertisement from coca-cola dominates the pole, the skyscraper in @fig-shuic are filled with billboards with English letters. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. The storytelling in Shui Chang De Zui Hao also closely resembles the socialist realism in the USSR. The symbols in the film signify both the United States and capitalism. By showing the poor living condition of the two kids, the film shows the marginalization of people living in a capitalism society to the domestic audiences. This method of story telling is identical to Mister Volk in the Stalin period.
+
+From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted. Because of the failure in the Great Leap Forward, Mao relaxes ideological control over art and artists, similar to the thaw  [@duAnimatedEncountersTransnational2019, pp. 117]. However, the relaxation in control does not cause more satire or educational children's film like USSR. Instead, it inspires nationalism among Chinese artists. Animations and propaganda incorporate traditional Chinese culture to promote the Chinese national identity, the majorities of the stories are based in China.
+
+In Yu Tong we see a major shift in art style. For example, recurring motifs including lotus and Chinese ware reinforce the film's themes and cultural context of traditional Chinese art. The porcelain in @fig-yuto2a has a very distinct celadon pattern, lotus flower, and a festive red color. The film divide the characters of the play into two factions, one of which is the commoners represented by peasants in @fig-yuto2b, fishermen and the masses, and the other side is the forces of evil represented by the imperial officials and foreign missionaries in @fig-yuto2c. In the final scene, the foreign missionaries cooperate with the government officials, claiming the fisherman's porcelain is his property. in @fig-yuto1a, the spirit of the porcelain jumped out of the porcelain and punished the foreign missionary. The animation of metamorphosis is used in this scene. The porcelain is transformed into a child, revealing the true nature of the character，creating a linearity between the Chinese identity and the object [@wellsUnderstandingAnimation1998, pp. 69]. In this scene, the children in the porcelain can be interpreted as the pure spirit of objects made in China. The desire of foreign missionaries for Chinese porcelain reflects the semi-feudal and semi-colonial nature of China from the Qing Dynasty to the Republic of China. By choosing commoners over foreigners, porcelain confirms the orthodoxy of traditional Chinese culture. 
+
+::: {#fig-yuto2 layout-ncol=3}
+
+![Porcelain that foreigners and Chinese are fighting over](fig/yuto3.png){#fig-yuto2a}
+
+![Peasants arguing against foreigner and government officials](fig/yuto4.png){#fig-yuto2b}
+
+![The cooperation between the missionary and officials](fig/yuto5.png){#fig-yuto2c}
+
+Stills from Yu Tong
+:::
+
+In Tai Yang De Xiao Ke Ren, the director further discusses the status of Chinese traditional culture. The story is about how, on Children's Day, the Sun God invites children from all over the world to a party in the sky, and the children from all over the world help the children from the United States escape government regulation to participate in the party. 
+
+::: {#fig-taiy2 layout-ncol=3}
+
+![Kids from some tropical area](fig/taiy2.png){#fig-taiy2a}
+
+![The flame coming out of lantern](fig/taiy3.png){#fig-taiy2b}
+
+![Kids from an Eurpoean country](fig/taiy4.png){#fig-taiy2c}
+
+![Skyscraper with English texts](fig/taiy5.png){#fig-taiy2d}
+
+![Two kids with lighter skin and one with a darker skin](fig/taiy6.png){#fig-taiy2e}
+
+![Law enforcement agent and his eagle](fig/taiy7.png){#fig-taiy2f}
+
+Stills from Tai Yang De Xiao Ke Ren
+:::
 
 
-The animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. From 1958, Mao launched the Great Leap Forward, with the deterioration of Sino-Soviet relations in the late 1950s, the CCP deviated from the socialist realism. In this era, elements of "revolutionary romanticism" such as myths, folklore, legends, and fantasies are permitted [@duAnimatedEncountersTransnational2019, pp. 117]. Animations and propaganda incorporate traditional Chinese cultures to promote the Chinese national identity, the majorities of the stories are based in China.
 
 
 \newpage
