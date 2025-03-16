@@ -1,4 +1,8 @@
-# Propaganda Films and National Identity: Animated Films in USSR and China
+For a better viewing experience, you can also visit:
+https://github.com/yulexun/propaganda-film-analysis?tab=readme-ov-file#readme-ov-file
+
+
+
 
 Final Essay of BMS401: Animated Film in Europe
 
