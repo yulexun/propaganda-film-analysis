@@ -36,7 +36,7 @@ Mister Volk [-@gromovMisterVolk1949] is produced before the Thaw when Stalin is 
 
 ![Fluid movement](fig/wolf2.png){#fig-wolfb}
 
-Stills from Mister Volk
+Stills from Mister Volk [-@gromovMisterVolk1949]
 :::
 
 Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterTvister1963] are both produced in 1963 after the Thaw. We observe a notable change in style from full to limited animation. These two films focus on flatness, lack of perspective. It uses colors for background, which lack of extra detail. According to @furnissArtMotionAnimation1999, limited animation reflects formal design and minimalism. Large chunks of color fields suggest a simplified background space [-@furnissArtMotionAnimation1999, pp. 140]. 
@@ -49,7 +49,7 @@ Millioner [-@bordzilovskiyMillioner1963] and Mister Tvister [-@karanovichMisterT
 
 ![Cutout techniques](fig/mill2.png){#fig-millc}
 
-Stills from Millioner
+Stills from Millioner [-@bordzilovskiyMillioner1963]
 :::
 
 Millioner is a combination of full and limited animation. It is Bordzilovskiy's first animated film. The director previously works in Soyuzmultfilm as a art director for other full animation such as Million v meshke in 1956. In 1960 Bordzilovskiy works as the art director for a limited animation 13 reys in 1960. As shown in @fig-milla, the dog is drawn with the full animation technique because of its smooth movement, while other characters have limited movement. The character on the left only moves their hand or their legs at a time to simulate movement, the faces of people in the film remains constant at most of the time. @fig-millb and @fig-millc further shows the limited background and the repetitive movement of multiple characters, creating an abstract depiction of the meanings. For instance, the background in @fig-millb are constructed by a few black shapes which resemble the corridor of the mansion. By simply moving this shape backwards, it demonstrates the large space, signifying the wealth of the owner. In @fig-millc, people are dancing with their hands and feet on the floor, the cutout at the top of the frame shows extend the space of the bar, visually extending the large amount of dancers. 
@@ -66,7 +66,7 @@ Mister Tvister further enhance the abstractness of animation film. The director 
 
 ![Dialpad shape signifies multiple calls at once](fig/twis4.png){#fig-twisd}
 
-Stills from Mister Tvister
+Stills from Mister Tvister [-@karanovichMisterTvister1963]
 :::
 
 The differences between the three films reflect the socio-cultural changes in the Soviet Union. First, the characteristics of the two 1963 films both reflect Soyuzmultfilm transition from full animation to limited animation. The early years of Soyuzmultfilm included a great deal of pro-Soviet and anti-capitalist propaganda, and they use Disney’s full, cel animation method as the blueprint. The aesthetic goal of complete animation is to create animations with great diligence and subtle fluidity of motion. This aligns with Josef Stalin and Maksim Gorki’s promotion of socialist realism ideology which focuses on optimistic and realistic representations of the country’s glorious future [@cowenAnimationIronCurtain2020, chap. 4]. The story in Mister Volk also incorporates the socialist realism aspect because it depicts a wealthy family in the US and their disingenuous behavior. On the ideological level, the film criticized capitalism and upper class that reflects the dominant value of the United States. As Pontieri stated, the stories in this time focus on banishing old bourgeoisie, and attacking the rich, racist, and duplicitous capitalists [@pontieriSovietAnimationThaw2012b, pp. 21, 36].
@@ -89,7 +89,7 @@ Shui Chang De Zui Hao [-@jinShuiChangZui1958] is a puppet animation directed by 
 
 ![Large print of advertisements](fig/shui3.png){#fig-shuic}
 
-Stills from Shui Chang De Zui Hao
+Stills from Shui Chang De Zui Hao [-@jinShuiChangZui1958]
 :::
 
 Yu Tong [-@wanYuTong1959] in 1959 employs the paper cutout animation invented by the director Wan Guchan, one of the pioneering Wan brothers who revolutionized the Chinese animation industry. This method combines traditional Chinese shadow play and paper cutting with animation techniques. Characters in Yu Tong are following a distinct Chinese aesthetic. As shown in @fig-yuto1a, the protagonist, Yu Tong, is portrayed as a classical Chinese child with big eyes, thick eyebrows, arms and legs like lotus root, and black hair. The other protagonists include a missionary from the West dressed in black and an old fisher as a peasant, as shown in @fig-yuto1c. The background of the film specially reflects the traditional Chinese art with a mixture of Japanese influence, like @fig-yuto1b, and the music in background is played with traditional Chinese instruments. Based on the overall theme of the film, it is targeting children. 
@@ -102,7 +102,7 @@ Yu Tong [-@wanYuTong1959] in 1959 employs the paper cutout animation invented by
 
 ![Other main protagonists](fig/yuto2.png){#fig-yuto1c}
 
-Stills from Yu Tong
+Stills from Yu Tong [-@wanYuTong1959]
 :::
 
 Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961] is directed by Xu Jingda in 1961. This is a full animation film compared to the other ones. As shown in @fig-taiy1a, the animation employs extreme squash and stretch techniques because the ball is stretched to signify movement. The characters include kids from all over the world, the god of sun, and the government officials in the US cities. Like Yu Tong, the background art of the film uses traditional Chinese painting techniques to create a sense of depth and cultural context. In @fig-taiy1b, the god of sun is standing in front of a background painted by Chinese traditional watercolor techniques. The theme and overall tone are a blend of children's entertainment and cultural education aimed at young audiences.
@@ -113,7 +113,7 @@ Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961] is directed by Xu Jingda in 1961. 
 
 ![The god of sun and background](fig/taiy1.png){#fig-taiy1b}
 
-Stills from Tai Yang De Xiao Ke Ren
+Stills from Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961]
 :::
 
 In the three PRC films we observe a significant change in the art style and storytelling. The changes in animated films are reflection of social and political shifts inside and outside China. In the early years, the animation studio followed the cultural bureau's guideline and produces animation targeting children [@duAnimatedEncountersTransnational2019, pp. 97]. Between 1953 and 1959, inspired by the Soviet model, the government controlled all film production in mainland China, socialist realism borrowed from the Soviet Union is adopted as the dominant principle of cultural production [@duAnimatedEncountersTransnational2019, pp. 116]. We observe this trend in Shui Chang De Zui Hao. The background setup in the film precisely reflects an American city. In @fig-shuib, advertisement from Coca-Cola dominates the pole, the skyscraper in @fig-shuic are filled with billboards with English letters. Animations in this era are called the "international style", which reflect life in other countries but targets domestic audiences. The storytelling in Shui Chang De Zui Hao also closely resembles the socialist realism in the USSR. The symbols in the film signify both the United States and capitalism. By showing the poor living condition of the two kids, the film shows the marginalization of people living in a capitalism society to the domestic audiences. This method of story telling is identical to Mister Volk in the Stalin period.
@@ -130,7 +130,7 @@ In Yu Tong we see a major shift in art style. For example, recurring motifs incl
 
 ![The cooperation between the missionary and officials](fig/yuto5.png){#fig-yuto2c}
 
-Stills from Yu Tong
+Stills from Yu Tong [-@wanYuTong1959]
 :::
 
 ::: {#fig-taiy2 layout-ncol=3}
@@ -147,7 +147,7 @@ Stills from Yu Tong
 
 ![Law enforcement agent and his eagle](fig/taiy7.png){#fig-taiy2f}
 
-Stills from Tai Yang De Xiao Ke Ren
+Stills from Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961]
 :::
 
 In Tai Yang De Xiao Ke Ren, the director further discusses the status of Chinese traditional culture. The story is about how, on Children's Day, the Sun God invites children from all over the world to a party in the sky, and the children from all over the world help the children from the United States escape government regulation to participate in the party. The film still has socialist realism aspect in it because the living condition depicted in @fig-taiy2e is poor and the English text and skyscraper in @fig-taiy2d indicates United States。 The symbols are reflecting a realistic live under capitalism. In comparison, kids in other regions in @fig-taiy2a and @fig-taiy2c has better living conditions. The eagle in @fig-taiy2f also signifies the symbol of the US in an analogous way to the USSR films. The Chineseness is reflected by the recurring symbol of lanterns and background in Chinese traditional artistic style. More importantly, in @fig-taiy2b, the spirit of fire jumps out of a lantern, instead of coming from the sky, showing that the god of the sun and spirits of fire on the sky are originated from China. At the end of the film, the spirit of fire rescued the kids from the US law enforcement, helping them attending the party held by the god of sun, who is originated from Chinese tradition. This extend the nationalism further, because the discussion is not limited to the definition of the Chineseness. Compared to the USSR animation, the Chinese animation rarely discusses the problem with ideology, rather they focus on a national symbol. In Yu Tong, the confrontation is between the peasants and foreigners. The peasants protect the Chinese national identity from evil government officials collaborating with foreigners with the help from authentic traditional Chinese heritage. In Tai Yang De Xiao Ke Ren, the Chineseness expands worldwide, becoming a status of peace on the global scale. The extension of the peace represented by the spirit of fire confront capitalism represented by the US, saving kids from the negative effect of capitalism.
@@ -162,3 +162,17 @@ The evolution of propaganda animation in the USSR and PRC demonstrates how polit
 
 ::: {#refs}
 :::
+
+\appendix
+
+# Abstract of Shui Chang De Zui Hao [-@jinShuiChangZui1958]
+
+In a city in a Western country, there are two homeless children - a brother, Silver Hair, and a sister, Blonde Hair - who earn their living by selling songs on the streets. Their fate was as uncertain as a pair of street dogs and cats. One day, the radio announces a singing contest organized by Radio Wala Wala, with a huge prize of 100,000 yuan. A woman who calls herself a “philanthropist” hears the news and is attracted by Silver and Blonde's singing voice. Thinking it will be profitable, she adopts Silver and Blonde to practice singing at home in preparation for the contest. Another speculator adopts the stray dogs and cats and prepares to sell them at a high price as a “good breed”. He then hears the announcement of the contest and decides to name the dogs and cats and form a band to compete. When the contest begins, the claptrap singer and the “cat and dog duo” are reviled, while the silver-haired and blonde siblings are warmly welcomed by the audience for their wonderful performance. However, the judges of the competition thought otherwise, and agreed that the “cat and dog duet” was creative and elegant art, and eventually gave the grand prize to the speculator's “cat and dog” duo. The speculator received contracts from movie studios, publishers and other bosses, and was invited by the mayor to a dinner party, the cat and dog became the star of the city, so the speculator made a fortune. But the hard-working female “philanthropist” stops being philanthropic and kicks Silver and Blonde out of the house, leaving the two siblings back on the streets.
+
+# Abstract of Yu Tong [-@wanYuTong1959]
+
+After the Opium War, the imperialists occupied China's harbours and forbade the fishermen to go out to sea to fish, so the fishermen had a lot of complaints.There is an old fisherman forced to make a living, and one night the fisherman catches a Chinese ware. The old fisherman returned home disappointed and put the ware on the table. In the middle of the night, the painted girl on the ware jumped out of the bowl and fished with a fishing rod in the basin, turning out many large pearls. The fisherman woke up and was so amazed that he knew it was a treasure. The next day, he sold the pearls on the market and dreamed of having money to build a new fishing boat in the future. However, this secret was known to a foreign cleric, who wanted to take over the bowl, so he colluded with the government and took the fisherman to the public court. The foreign clergyman said that the bowl belonged to him. The officials followed the foreigners and forced the fisherman to return the bowl. The fisherman was furious and rebuked them righteously. In order to prevent the bowl from falling into the hands of the foreigners, he smashed the bowl to pieces in public in the public court. At that moment, girl in the bowl jumped out again. She threw up his fishing rod and threw the foreign clergyman into the sea.
+
+# Abstract of Tai Yang De Xiao Ke Ren [-@xuTaiYangXiao1961]
+
+For the first time in his history, the God of Sun decided to invite the children of Earth to his palace for Children's Day. So the God of Sun commissioned the Messenger of Fire to go to Earth to deliver the good news. On Earth, the children were happy and carefree during their holiday. At the same time, there are still many children living in war and poverty, who are worried about having enough to eat, picking up garbage all over the place and at the same time are subjected to cynicism and incapable of hurling insults. The Messenger of Fire and other children help the children in the war and poverty to go to the party without the obstruction of the police.
